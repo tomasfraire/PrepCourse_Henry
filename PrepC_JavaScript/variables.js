@@ -1,5 +1,4 @@
 // TIPOS DE DATOS
-
 var cajon1 = "Bufanda Verde";
 
 //String
