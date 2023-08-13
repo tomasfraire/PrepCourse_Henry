@@ -26,4 +26,9 @@ Hoy pude terminar el M2, no es que fuera complicado pero tuve una semana con con
 + reforce el uso de los comandos para navegar por los directorios
 + reforce y me hice una cheatsheet del uso de comandos de git y como crear o clonar repositorios remotos.
 + Realize el fork del repositorio de tareas (homework) del PrepCourse y installe las dependencias con "npm install" para poder correr los test de las tarreas que voy realizando
+Mas tarde este mismo dia me puse a ver las primeras clases y videos de JS, usare este reopsitorio tambien como un suerte de resumen o "cheatsheet"
++ variables (var)
++ tipos de datos
++ operadores y precedencia
++ Instalar Extenciones en VSC (code runner) - esto ya lo hacia y tengo varias (live server, sass compiler, indent-rainbow, icons, error lens, auto rename tag, auto close tag)
 
