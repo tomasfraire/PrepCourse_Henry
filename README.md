@@ -41,5 +41,9 @@ Hoy termine el M3, me puse a ver el repositorio de ejercicios y Homework que nos
 + Control de flujo (if/else)
 + Object math
 + Difernecia entre console.log y return
-+ Me puse como ejercicio extra de este modulo, hagarrar un ejercicio que hizo el profesor y agregarle conceptos del OBJECT MATH
++ Me puse como ejercicio extra de este modulo, agarrar un ejercicio que hizo el profesor y agregarle conceptos del OBJECT MATH
 
+15/08/2023 PrepM3 y Ejercicio Extra | PrepM4
++ termine y pushe el repositorio de ejercicos M03 del prepCourse
++ Realice el erjecicio extra que me propuse ayer, con ayuda de chatGPT logre entender bien el funcionamiento de Math.random.
++ Empece el M4
