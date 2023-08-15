@@ -11,7 +11,7 @@ Ya habia intentando cursar este bootcamp, me alegro ver que actualizaron los con
 
 La segunda razon fue que me tome todo con presion, estres y queise hacer todo rapido, voy a ir paso a paso.
 
-11/08/2023
+11/08/2023 PrepM1   
 Hoy inicie el PrepCourse, consta de 13 modulos (M1, M2, M3, M4, M5, M6, M7, M8, HTML/CSS, HTML, CSS, MATERIAL EXTRA HTML/CSS, HC)
 El M1 consta de una instroduccion, en la cual te explican como funciona henry, como se estructura el bootcamp y porque estudiar con ellos.
 Tambien y creo yo lo mas importante, te explican como descargar e isntalar los recursos, programas y demas que necesitas para el resto de la cursada. 
@@ -20,7 +20,7 @@ LLegue a ver parte del M2 en este modulo se parenden el uso de la consola de com
 
 + Despeje dudas acerca del bootcamp y pude verificar si tenia todo isntalado para empezar el PrepCourse
 
-12/08/2023
+12/08/2023 PrepM2 | PrepM3
 Hoy pude terminar el M2, no es que fuera complicado pero tuve una semana con contratiempos y no le dedique muchas horas al estudio.
 + Reforce el uso de git y github
 + Reforce el uso de los comandos para navegar por los directorios
@@ -33,4 +33,13 @@ Mas tarde este mismo dia me puse a ver las primeras clases y videos de JS, usare
 + Instalar Extenciones en VSC (code runner) - esto ya lo hacia y tengo varias (live server, sass compiler, indent-rainbow, icons, error lens, auto rename tag, auto close tag)
 + Concatenacion y uso del console.log
 + Operadores de comparacion
+
+14/08/2023 PrepM3
+Hoy termine el M3, me puse a ver el repositorio de ejercicios y Homework que nos da Henry para la parte practica
++ Funciones
++ Nomenclatura
++ Control de flujo (if/else)
++ Object math
++ Difernecia entre console.log y return
++ Me puse como ejercicio extra de este modulo, hagarrar un ejercicio que hizo el profesor y agregarle conceptos del OBJECT MATH
 
