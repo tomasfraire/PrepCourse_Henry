@@ -51,7 +51,7 @@ Hoy termine y pushe el repositorio de ejercicos M03 del prepCourse y Realice el 
 + Operadores Logicos
 
 # 16/8/2023 PrepM4
-Hoy segui el M04 del prepCourse
+Hoy segui el M04 del prepCourse y realice la HomeWork M04
 + Veracidad
 + For
 + While
