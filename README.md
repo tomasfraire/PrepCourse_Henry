@@ -59,3 +59,23 @@ Hoy segui el M04 del prepCourse y realice la HomeWork M04
 + Do-While
 + Continue
 + Break
+
+# 18/8/2023
+Hoy segui el M05 del prepCourse
++ Arrays
++ Metodos de Arrays
+    * Métodos de Inserción:
+        - push()
+        - pop()
+        - unshift()
+        - shift()
+    * Métodos Varios:
+        - includes()
+        - every()
+        - split()
+        - join()
+    * Métodos de Recorrido:
+        - forEach()
+        - map()
+
++ For y While junto a Arrays
